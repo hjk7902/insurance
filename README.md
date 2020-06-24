@@ -67,9 +67,7 @@ http://127.0.0.1:8000/1
 Select archive file : Insurance-Fraud-Detection.zip > Finish
 5. 톰캣 설치
 6. 이클립스에서 톰캣 서버 설정
-7. C:\Users\B0111\.m2\repository\com\oracle\ojdbc\6 폴더에 Database폴더 안에 있는 ojdbc-
-
-6.jar 파일을 복사해서 붙여넣기
+7. C:\Users\B0111\.m2\repository\com\oracle\ojdbc\6 폴더에 Database폴더 안에 있는 ojdbc-6.jar 파일을 복사해서 붙여넣기
 데이터베이스 계정 정보
  -프로젝트 > Java Resources > src/main/resources/database/jdbc.properties
 jdbc.driverClassName=oracle.jdbc.driver.OracleDriver
